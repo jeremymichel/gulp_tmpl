@@ -1,0 +1,17 @@
+{
+  "name": "Connect Watch",
+  "version": "1.0.0",
+  "description": "Connect server, watch files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-compass": "^1.1.8",
+    "gulp-connect": "^2.0.5",
+    "gulp": "^3.6.2",
+    "gulp-plumber": "^0.6.1"
+  }
+}
