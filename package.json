@@ -1,5 +1,5 @@
 {
-  "name": "Gulp template Connect Watch",
+  "name": "Gulp_Template_Connect_Watch",
   "version": "1.0.0",
   "description": "Connect server, watch files",
   "main": "index.js",
