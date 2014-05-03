@@ -1,12 +1,9 @@
 {
-  "name": "Connect Watch",
+  "name": "Gulp template Connect Watch",
   "version": "1.0.0",
   "description": "Connect server, watch files",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Jérémy Michel",
   "license": "ISC",
   "devDependencies": {
     "gulp-compass": "^1.1.8",
